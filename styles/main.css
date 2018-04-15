@@ -1,0 +1,50 @@
+body{
+	background: #555;
+	font-family: arial;
+}
+
+h3,h4 {
+	color: green;
+}
+
+p{
+	background: 999;
+	color: blue;
+	padding: 5px, 5px,5px,5px;
+}
+.secondary {
+	background: none;
+	color: #000;
+}
+
+header {
+	background: #999;
+	color: red;
+	margin: 0;
+	padding: 5px 5px 5px 5px;
+}
+
+header h3 {
+	margin: 0;
+	display: inline;
+	color: blue;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+nav ul li {
+	background: black;
+	color: green;
+	display: inline-block;
+	list-style-type:none;
+	padding: 5px 10px;
+	margin: 0;
+}
+
+nav ul li a{
+	color: green;
+}
